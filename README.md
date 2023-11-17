@@ -12,4 +12,4 @@ Also padding on the image was not good as it messed up the border, instead I use
 I used color picker with paint to get the RGB Value of the blue used on the background.
 My mockup looks like this:
 
-![image](https://github.com/nicole1020/webdev_qr_code/assets/71186944/1ee3e06f-c9bc-4ce5-9762-df00a133e7f2)
+![image](https://github.com/nicole1020/webdev_qr_code/assets/71186944/cf2ae585-35d6-4bfb-919d-7e1cfac7fdc7)
