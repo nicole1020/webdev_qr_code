@@ -1,29 +1,25 @@
 BODY {
-    background-color: rgb(216, 223, 239)
+    background-color: rgb(216, 223, 239);
 }
 h2 {
     color: black;
     text-align: center;
     font-size: 16px;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 
 }
 p {
     color: gray;
     text-align: center;
     font-size: 12px;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 }
 .center-container {
     background-color: white;
-    position: center;
     border-radius: 20px;
-    padding: 5px 10px 5px 10px;
-    margin-left: 530px;
-    margin-right: 530px;
+    padding: 5px 10px;
+    margin: 130px auto 150px;
     width: 270px;
-    margin-top: 130px;
-    margin-bottom: 150px;
     height: 400px;
 }
 .center-image {
